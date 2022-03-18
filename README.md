@@ -29,14 +29,6 @@ I am a small streamer that likes
 ![](https://github-readme-streak-stats.herokuapp.com/?user=french-cat&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=french-cat&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=french-cat&icon=2&color=11)](https://visitcount.itsvg.in)
-
 ---
 
 ## 💰You can help me by Donating
