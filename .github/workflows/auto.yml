@@ -33,5 +33,5 @@ jobs:
           git add README.md
           git config --global user.name 'Imaginary Boyfriend'
           git config --global user.email 'bf@fake.frcat'
-          git commit -am 'Automatic Update <3' || true
+          git commit -am 'Automatic Update' || true
           git push
