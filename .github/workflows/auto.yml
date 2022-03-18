@@ -31,7 +31,7 @@ jobs:
       - name: Commit & Push changes
         run: |
           git add README.md
-          git config --global user.name 'French Cat\'s Imaginary Boyfriend'
-          git config --global user.email 'bf@fake.frcat.win'
+          git config --global user.name 'Imaginary Boyfriend'
+          git config --global user.email 'bf@fake.frcat'
           git commit -am 'Automatic Update <3' || true
           git push
