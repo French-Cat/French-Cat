@@ -1,3 +1,3 @@
 [![refresh](https://github.com/French-Cat/French-Cat/actions/workflows/auto.yml/badge.svg)](https://github.com/French-Cat/French-Cat/actions/workflows/auto.yml)
 
-i like horror movies
+Ghostface is way more than fine asf
