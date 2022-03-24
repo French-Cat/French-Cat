@@ -25,7 +25,7 @@ jobs:
           
       - name: Change out the README.md file
         run: |
-          ID=$(curl -X GET "http://www.randomnumberapi.com/api/v1.0/random?min=1&max=13")
+          ID=$(curl -X GET "http://www.randomnumberapi.com/api/v1.0/random?min=1&max=15")
           cat ${ID}.md > README.md 
           
       - name: Commit & Push changes
