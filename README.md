@@ -1,1 +1,1 @@
-Jason Voorhees fine asf
+full body tracking is expensive asf tho
