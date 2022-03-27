@@ -1,2 +1,2 @@
 why am I here again?
-i like horror movies
+full body tracking is expensive asf tho
