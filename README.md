@@ -1,2 +1,2 @@
 why am I here again?
-full body tracking is expensive asf tho
+my life is like a bike through an avalanche
