@@ -1,1 +1,1 @@
-Ghostface is way more than fine asf
+catboys make life better
