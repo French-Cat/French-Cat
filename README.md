@@ -1,1 +1,2 @@
-i feel dead inside lol
+why am I here again?
+Ghostface is way more than fine asf
