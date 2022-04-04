@@ -1,1 +1,1 @@
-Ghostface is way more than fine asf
+my life is like a bike through an avalanche
