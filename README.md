@@ -1,2 +1,2 @@
 why am I here again?
-catboys make life better
+my life is like a bike through an avalanche
