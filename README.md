@@ -1,1 +1,2 @@
-full body tracking is expensive asf tho
+why am I here again?
+i like vr
