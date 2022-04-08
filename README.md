@@ -1,2 +1,1 @@
-why am I here again?
-Ghostface is way more than fine asf
+catboys make life better
