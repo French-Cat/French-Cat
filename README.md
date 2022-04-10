@@ -1,2 +1,1 @@
-why am I here again?
-i like vr
+my life is like a bike through an avalanche
