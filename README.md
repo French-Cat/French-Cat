@@ -1,2 +1,2 @@
-i feel dead inside lol
-catboys make life better
+why am I here again?
+my life is like a bike through an avalanche
