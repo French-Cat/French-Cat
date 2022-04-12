@@ -1,2 +1,2 @@
 i feel dead inside lol
-catboys make life better
+Ghostface is way more than fine asf
