@@ -1,2 +1,2 @@
-why am I here again?
-Jason Voorhees fine asf
+i feel dead inside lol
+full body tracking is expensive asf tho
