@@ -1,2 +1,2 @@
 i feel dead inside lol
-full body tracking is expensive asf tho
+Ghostface is way more than fine asf
