@@ -1,1 +1,1 @@
-full body tracking is expensive asf tho
+i feel dead inside lol
