@@ -1,2 +1,1 @@
-i feel dead inside lol
-i like horror movies
+Ghostface is way more than fine asf
