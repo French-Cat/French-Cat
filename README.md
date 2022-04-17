@@ -1,2 +1,2 @@
 why am I here again?
-Jason Voorhees fine asf
+Ghostface is way more than fine asf
