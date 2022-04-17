@@ -1,1 +1,2 @@
-i like horror movies
+i feel dead inside lol
+i like vr
