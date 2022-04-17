@@ -1,2 +1,1 @@
-i feel dead inside lol
-i like horror movies
+full body tracking is expensive asf tho
