@@ -1,1 +1,2 @@
-full body tracking is expensive asf tho
+i feel dead inside lol
+my life is like a bike through an avalanche
