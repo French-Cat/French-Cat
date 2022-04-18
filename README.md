@@ -1,2 +1,1 @@
-i feel dead inside lol
-i like horror movies
+my life is like a bike through an avalanche
