@@ -1,2 +1,2 @@
-why am I here again?
-Jason Voorhees fine asf
+i feel dead inside lol
+my life is like a bike through an avalanche
