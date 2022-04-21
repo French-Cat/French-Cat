@@ -1,1 +1,2 @@
-Ghostface is way more than fine asf
+i feel dead inside lol
+my life is like a bike through an avalanche
