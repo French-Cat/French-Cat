@@ -25,7 +25,7 @@ jobs:
           
       - name: Change out the README.md file
         run: |
-          ID=$(expr $min + 1 % 33)
+          ID=$(expr 1 + $RANDOM % 33)
           cat ${ID}.md > README.md 
           
       - name: Commit & Push changes
