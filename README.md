@@ -1,1 +1,1 @@
-once you start, you cannot stop..
+Sometimes, I miss the people who hurt me most.
