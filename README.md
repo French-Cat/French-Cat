@@ -1,1 +1,1 @@
-panik
+im a simp
