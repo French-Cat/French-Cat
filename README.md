@@ -1,1 +1,1 @@
-why am I here again?
+<img src="https://github-readme-stats.vercel.app/api?username=French-Cat">
