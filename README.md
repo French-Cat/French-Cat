@@ -1,1 +1,1 @@
-British and German accents are fine asf
+full body tracking is expensive asf tho
