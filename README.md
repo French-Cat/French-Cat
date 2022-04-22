@@ -1,1 +1,1 @@
-British and German accents are fine asf
+Sometimes, I miss the people who hurt me most.
