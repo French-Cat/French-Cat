@@ -1,1 +1,1 @@
-Why does she look like she's in some weird hentai horny cult - Panda 2022
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=French-Cat">
