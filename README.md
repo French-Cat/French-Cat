@@ -1,1 +1,1 @@
-Ghostface is way more than fine asf
+once you start, you cannot stop..
