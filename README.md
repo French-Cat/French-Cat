@@ -1,1 +1,1 @@
-i have the attention span of a goldfish on meth
+Ghostface is way more than fine asf
