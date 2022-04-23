@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=French-Cat">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=French-Cat">
