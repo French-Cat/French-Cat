@@ -1,1 +1,1 @@
-i feel dead inside lol
+Sometimes, I miss the people who hurt me most.
