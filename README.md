@@ -1,1 +1,1 @@
-why hello there, I hope you have cookies enabled >:D
+<img src=https://raw.githubusercontent.com/French-Cat/assets/main/sexvalues.png>
