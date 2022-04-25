@@ -1,1 +1,1 @@
-webpage hit counter.
+Sometimes, I miss the people who hurt me most.
