@@ -1,1 +1,1 @@
-full body tracking is expensive asf tho
+<img src=https://raw.githubusercontent.com/French-Cat/assets/main/sexvalues.png>
