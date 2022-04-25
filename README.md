@@ -1,1 +1,1 @@
-Sometimes, I miss the people who hurt me most.
+full body tracking is expensive asf tho
