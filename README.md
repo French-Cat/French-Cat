@@ -1,1 +1,1 @@
-once you start, you cannot stop..
+my life is like a bike through an avalanche
