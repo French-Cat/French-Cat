@@ -1,1 +1,1 @@
-Screaming & Crying rn
+full body tracking is expensive asf tho
