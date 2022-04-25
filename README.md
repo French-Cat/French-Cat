@@ -1,1 +1,1 @@
-Ghostface is way more than fine asf
+why hello there, I hope you have cookies enabled >:D
