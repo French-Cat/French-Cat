@@ -1,1 +1,1 @@
-im a simp
+Screaming & Crying rn
