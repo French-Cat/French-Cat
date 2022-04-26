@@ -1,1 +1,1 @@
-look behind you lmao
+my life is like a bike through an avalanche
