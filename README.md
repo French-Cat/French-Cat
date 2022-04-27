@@ -1,1 +1,1 @@
-<img src="https://skillicons.dev/icons?theme=dark&perline=50&i=androidstudio,bash,cloudflare,css,discord,bots,docker,electron,firebase,git,github,gitlab,html,ai,instagram,js,linux,lua,md,nodejs,ps,php,py,raspberrypi,stackoverflow,svg,twitter,unity,vscode,vue,workers,"/>
+Aspy <3 😩😩
