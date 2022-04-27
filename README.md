@@ -1,1 +1,1 @@
-soon™️
+im a simp
