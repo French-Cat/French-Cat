@@ -1,1 +1,1 @@
-i have the attention span of a goldfish on meth
+my life is like a bike through an avalanche
