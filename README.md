@@ -1,1 +1,1 @@
-i have the attention span of a goldfish on meth
+why hello there, I hope you have cookies enabled >:D
