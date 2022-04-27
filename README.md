@@ -1,1 +1,1 @@
-British and German accents are fine asf
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=French-Cat">
