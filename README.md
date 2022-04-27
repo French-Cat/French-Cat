@@ -1,1 +1,1 @@
-my life is like a bike through an avalanche
+Sometimes, I miss the people who hurt me most.
