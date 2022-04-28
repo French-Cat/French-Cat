@@ -1,1 +1,1 @@
-Aspy <3 😩😩
+full body tracking is expensive asf tho
