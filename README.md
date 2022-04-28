@@ -1,1 +1,1 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=French-Cat">
+why hello there, I hope you have cookies enabled >:D
