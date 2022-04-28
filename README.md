@@ -1,1 +1,1 @@
-full body tracking is expensive asf tho
+<img src="https://github-readme-stats.vercel.app/api?username=French-Cat">
