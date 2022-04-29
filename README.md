@@ -1,1 +1,1 @@
-i have the attention span of a goldfish on meth
+Sometimes, I miss the people who hurt me most.
