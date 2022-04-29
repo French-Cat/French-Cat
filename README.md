@@ -1,1 +1,1 @@
-once you start, you cannot stop..
+webpage hit counter.
