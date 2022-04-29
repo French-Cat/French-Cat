@@ -1,1 +1,1 @@
-Sometimes, I miss the people who hurt me most.
+why hello there, I hope you have cookies enabled >:D
