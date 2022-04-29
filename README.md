@@ -1,1 +1,1 @@
-why hello there, I hope you have cookies enabled >:D
+<img src="https://github-readme-stats.vercel.app/api?username=French-Cat">
