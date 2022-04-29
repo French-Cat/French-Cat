@@ -1,1 +1,1 @@
-i have the attention span of a goldfish on meth
+British and German accents are fine asf
