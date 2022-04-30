@@ -1,1 +1,1 @@
-im a simp
+i like vr
