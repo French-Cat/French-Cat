@@ -1,1 +1,1 @@
-my life is like a bike through an avalanche
+<img src=https://raw.githubusercontent.com/French-Cat/assets/main/sexvalues.png>
