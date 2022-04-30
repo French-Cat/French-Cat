@@ -1,1 +1,1 @@
-Sometimes, I miss the people who hurt me most.
+Ghostface is way more than fine asf
