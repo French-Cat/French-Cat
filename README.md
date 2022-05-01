@@ -1,1 +1,1 @@
-Ghostface is way more than fine asf
+full body tracking is expensive asf tho
