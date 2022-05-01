@@ -1,1 +1,1 @@
-<img src=https://raw.githubusercontent.com/French-Cat/assets/main/sexvalues.png>
+Sometimes, I miss the people who hurt me most.
