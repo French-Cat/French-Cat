@@ -1,1 +1,1 @@
-full body tracking is expensive asf tho
+once you start, you cannot stop..
