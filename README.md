@@ -1,1 +1,1 @@
-<img src=https://raw.githubusercontent.com/French-Cat/assets/main/sexvalues.png>
+<img src="https://github-readme-stats.vercel.app/api?username=French-Cat">
