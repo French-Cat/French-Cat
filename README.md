@@ -1,1 +1,1 @@
-look behind you lmao
+Ghostface is way more than fine asf
