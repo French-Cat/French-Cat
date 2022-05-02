@@ -1,1 +1,1 @@
-my life is like a bike through an avalanche
+<a href="https://discord.gg/AYyTzxwkvB"><img src="https://invidget.switchblade.xyz/AYyTzxwkvB"></img></a>
