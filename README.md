@@ -1,1 +1,1 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=French-Cat">
+<img src=https://raw.githubusercontent.com/French-Cat/assets/main/sexvalues.png>
