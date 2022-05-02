@@ -1,1 +1,1 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=French-Cat">
+i have the attention span of a goldfish on meth
