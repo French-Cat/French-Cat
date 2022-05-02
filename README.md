@@ -1,1 +1,1 @@
-i feel dead inside lol
+why hello there, I hope you have cookies enabled >:D
