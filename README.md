@@ -1,1 +1,1 @@
-<a href="https://discord.gg/AYyTzxwkvB"><img src="https://invidget.switchblade.xyz/AYyTzxwkvB"></img></a>
+i have the attention span of a goldfish on meth
