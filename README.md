@@ -5,9 +5,7 @@
   # Github Stats
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=French-Cat&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D"></img><img src="https://github-readme-stats.vercel.app/api?username=French-Cat&count_private=true&show_icons=true&theme=vue-dark"></img>
-  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=French-Cat&langs_count=10&theme=vue-dark"></img>
-  </p>
   
   # My Skils
   
