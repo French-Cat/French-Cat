@@ -1,5 +1,7 @@
 <p align="center">
+  <code>
   <img src="https://quotes.french-cat.repl.co"></img>
+  </code>
 </p>
 
   # Github Stats
@@ -10,5 +12,7 @@
   # My Skils
   
   <p align="center">
+  <code>
   <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,cloudflare,css,discord,bots,docker,electron,express,github,gitlab,go,html,ai,js,linux,lua,md,nodejs,ps,php,powershell,raspberrypi,stackoverflow,svg,unity,visualstudio,vscode,workers&perline=10"></img>
+  </code>
   </p>
