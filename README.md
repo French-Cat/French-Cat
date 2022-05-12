@@ -1,6 +1,6 @@
 <p align="center">
     <code>
-  <img src="https://lastfm-recently-played.vercel.app/api?user=FRCat&count=1"></img>
+  <img src="https://quotes.french-cat.repl.co"></img>
   </code>
 </p>
 
