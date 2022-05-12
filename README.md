@@ -2,6 +2,10 @@
     <code>
   <img src="https://quotes.french-cat.repl.co"></img>
   </code>
+    <br></br>
+    <code>
+    <img src="https://github.com/French-Cat/gh-views/blob/master/svg/profile/badge.svg"></img>
+    </code>
 </p>
 
 <h1>Github Stats</h1>
