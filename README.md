@@ -6,7 +6,7 @@
     <code>
     <img src="https://github.com/French-Cat/gh-views/blob/master/svg/profile/badge.svg"></img>
     </code>
-</p>
+
 
 <h1>Github Stats</h1>
 
@@ -15,8 +15,12 @@
 
 <h1>My Skils</h1>
 
-<p align="center">
+
     <code>
   <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,cloudflare,css,discord,bots,docker,electron,express,github,gitlab,go,html,ai,js,linux,lua,md,nodejs,ps,php,powershell,raspberrypi,stackoverflow,svg,unity,visualstudio,vscode,workers&perline=10"></img>
   </code>
+
+<h1>Warning</h1>
+Exposure to my code for long amounts of time may cause brain damage.
+I am not responsible for any damage caused by my code.
 </p>
