@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://quotes.french-cat.repl.co"></img>
     <br></br>
-    <img src="https://github.com/French-Cat/gh-views/blob/master/svg/profile/badge.svg"></img>
+    <img src="https://komarev.com/ghpvc/?username=French-Cat"></img>
 </p>
 <p align="center">
     <h1>Github Stats</h1>
