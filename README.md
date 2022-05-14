@@ -16,7 +16,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,cloudflare,css,discord,bots,docker,electron,express,github,gitlab,go,html,ai,js,linux,lua,md,nodejs,ps,php,powershell,raspberrypi,stackoverflow,svg,unity,visualstudio,vscode,workers&perline=10"></img>
 </p>
-<p align="center">S
+<p align="center">
     <h1>Warning</h1>
     Exposure to my code for long amounts of time may cause brain damage. I am not responsible for any damage caused by my code.
 </p>
