@@ -18,6 +18,6 @@
 </p>
 <p align="center">
     <h1>Warning</h1>
-    Exposure to my code for long amounts of time may cause brain damage.
+    Exposure to my code for long amounts of time may cause brain damage.<br>
     I am not responsible for any damage caused by my code.
 </p>
