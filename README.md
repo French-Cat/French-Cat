@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=French-Cat&langs_count=10&theme=vue-dark"></img>
 </p>
 <p align="center">
-    <h1>My Skils</h1>
+    <h1>My Skills</h1>
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,cloudflare,css,discord,bots,docker,electron,express,github,gitlab,go,html,ai,js,linux,lua,md,nodejs,ps,php,powershell,raspberrypi,stackoverflow,svg,unity,visualstudio,vscode,workers&perline=10"></img>
