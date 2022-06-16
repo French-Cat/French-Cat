@@ -14,7 +14,7 @@
     <h1>My Skills</h1>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,cloudflare,css,discord,bots,docker,electron,express,github,gitlab,go,html,ai,js,linux,lua,md,nodejs,ps,php,powershell,raspberrypi,stackoverflow,svg,unity,visualstudio,vscode,workers&perline=10"></img>
+    <img src="https://skillicons.dev/icons?theme=dark&perline=11&i=androidstudio,aws,bash,blender,cs,cloudflare,codepen,css,discord,bots,docker,electron,express,firebase,git,github,gitlab,go,gradle,heroku,html,ai,instagram,java,js,linux,lua,md,nginx,nodejs,ps,php,powershell,py,raspberrypi,stackoverflow,svg,twitter,ts,unity,visualstudio,vscode,vue,workers"></img>
 </p>
 <p align="center">
     <h1>Warning</h1>
