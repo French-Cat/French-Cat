@@ -19,5 +19,6 @@
 <p align="center">
     <h1>Warning</h1>
     Exposure to my code for long amounts of time may cause brain damage.<br>
-    I am not responsible for any damage caused by my code.
+    I am not responsible for any damage caused by my code.<br>
+    <a href="https://www.npmjs.com/~french-cat">p.s. i make stupid simple tools into npm packages</a>
 </p>
