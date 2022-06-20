@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/French-Cat/French-Cat/main/French%20Cat%20Neon.png"></img>
+    <img src="https://i.french-cat.repl.co"></img>
     <br></br>
     <img src="https://komarev.com/ghpvc/?username=French-Cat"></img>
 </p>
