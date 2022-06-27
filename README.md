@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=french-cat&label=Profile%20views&color=0e75b6&style=flat" alt="french-cat" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=french-cat" alt="french-cat" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/fr3nch_c4t" target="blank"><img src="https://img.shields.io/twitter/follow/fr3nch_c4t?logo=twitter&style=for-the-badge" alt="fr3nch_c4t" /></a> </p>
 
 - 🔭 I’m currently working on [Bonfire](https://github.com/French-Cat/bonfire)
