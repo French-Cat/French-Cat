@@ -22,11 +22,3 @@
 - 💬 Ask me about **NodeJS/JavaScript**
 
 - ⚡ Fun fact **i like to use require, fuck import**
-
-<h3 align="left">Connect with me:</h3>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=french-cat&show_icons=true&locale=en&layout=compact" alt="french-cat" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=french-cat&show_icons=true&locale=en" alt="french-cat" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=french-cat&" alt="french-cat" /></p>
