@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bonfire](https://github.com/French-Cat/bonfire)
 
-- 🌱 I’m currently ~~trying to~~ learning **some type of frontend framework for bonfire**
+- 🌱 I’m currently ~~trying to~~ learn **some type of frontend framework for bonfire**
 
 - 👯 I’m looking to collaborate on [Bonfire](https://github.com/French-Cat/bonfire)
 
