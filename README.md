@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Bonfire](https://github.com/French-Cat/bonfire)
 
-- 👨‍💻 All of my projects are available at [https://frcat.win/portfolio](https://frcat.win/portfolio)
+- 👨‍💻 All of my projects are available at [https://frcat.win/portfolio/](https://frcat.win/portfolio/)
 
 - 📝 I regularly ~~try to~~ write articles on [https://frcat.win/blog/](https://frcat.win/blog/)
 
