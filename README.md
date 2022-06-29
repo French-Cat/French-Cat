@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FRCat</h1>
 <h3 align="center">A shitty front and backend developer that loves cats 👍</h3>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/811770910624579584.png" alt="french-cat" /> </p>
+<p align="center"> <img src="https://banner.french-cat.repl.co" alt="french-cat" /> </p>
 
 <p align="center"> <a href="https://twitter.com/fr3nch_c4t" target="blank"><img src="https://img.shields.io/twitter/follow/fr3nch_c4t?logo=twitter&style=for-the-badge" alt="fr3nch_c4t" /></a> </p>
 
