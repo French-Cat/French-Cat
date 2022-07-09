@@ -20,3 +20,5 @@
 - 💬 Ask me about **NodeJS/JavaScript**
 
 - ⚡ Fun fact **i like to use require, fuck import**
+
+- 🔪 "The fucking hand sanitizer?"
